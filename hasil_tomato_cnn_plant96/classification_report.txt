@@ -1,0 +1,18 @@
+Classification Report
+=====================
+
+                precision    recall  f1-score   support
+
+Bacterial Spot     0.7500    0.1333    0.2264        45
+  Early Blight     0.3165    0.5556    0.4032        45
+   Late Blight     0.6316    0.2667    0.3750        45
+     Leaf Mold     0.8182    0.2000    0.3214        45
+       Healthy     0.4167    1.0000    0.5882        45
+
+      accuracy                         0.4311       225
+     macro avg     0.5866    0.4311    0.3829       225
+  weighted avg     0.5866    0.4311    0.3829       225
+
+Test Loss: 1.2534
+Test Accuracy: 43.11%
+Training Time: 33.97 detik

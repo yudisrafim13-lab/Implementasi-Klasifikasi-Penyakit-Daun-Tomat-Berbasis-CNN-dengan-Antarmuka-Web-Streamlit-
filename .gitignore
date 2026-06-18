@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Machine Learning Models (large files)
+*.keras
+*.h5
+*.pkl
+*.pth
+*.pt
+*.model
+*.joblib
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.npz
+*.npy
+*.zip
+*.tar.gz
+
+# IDE specific
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
